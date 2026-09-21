@@ -37,7 +37,7 @@ export const site = {
 	ctaPrimario: { texto: 'Criar minha conta', href: '#' },
 	ctaSecundario: { texto: 'Ver o que dá para fazer', href: '#recursos' },
 	// Troque pelo endereço real do repositório.
-	repositorio: 'https://github.com/SEU-USUARIO/codlest-landing'
+	repositorio: 'https://discord.gg/rDwJzZ7a66'
 } as const;
 
 // Exemplos de publicações mostrados no topo da página.
