@@ -9,8 +9,8 @@
 		class="mx-auto flex max-w-6xl flex-wrap items-center justify-between gap-4 px-6 py-8 text-base text-suave"
 	>
 		<p>© {ano} {site.nome}. Feito no Brasil.</p>
-		<a href={site.repositorio} rel="noopener" class="underline underline-offset-4 hover:text-fita">
+		<!--a href={site.repositorio} rel="noopener" class="underline underline-offset-4 hover:text-fita">
 			Código no GitHub
-		</a>
+		</a-->
 	</div>
 </footer>
